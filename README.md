@@ -7,7 +7,7 @@
 
 ## Student Information
 
-- Name: 你的英文姓名
+- Name: I-Kai Chen
 - Student ID: s1141528
 
 ## Repository Description
